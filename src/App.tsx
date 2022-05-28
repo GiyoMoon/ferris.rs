@@ -8,7 +8,7 @@ const App: Component = () => {
       <p class='mt-10 text-xs'>
         by{' '}
         <a
-          class='text-blue-400'
+          class='text-purple-600'
           href='https://twitter.com/whoisaldeka/status/1165147725542785025'
           target='_blank'
           rel='noopener noreferrer'
